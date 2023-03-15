@@ -1,0 +1,3 @@
+#!/bin/bash
+bin/dopewars --scorefile=./dopewars.sco
+exit 0
